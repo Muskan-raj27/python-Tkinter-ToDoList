@@ -81,24 +81,23 @@ python main.py
 ---
 
 # 📸 Screenshots
+## Source Code
+![Source Code](screenshots/code.png)
 
-### Home Screen
+## Home Screen
+![Home Screen](screenshots/home.png)
 
-(Add image here)
+## Add Task
+![Add Task](screenshots/add_task.png)
 
-### Add Task
+## Multiple Tasks
+![Multiple Tasks](screenshots/multiple_tasks.png)
 
-(Add image here)
+## Delete Task
+![Delete Task](screenshots/delete_task.png)
 
-### Delete Task
-
-(Add image here)
-
-### Final Output
-
-(Add image here)
-
----
+## Final Output
+![Final Output](screenshots/final_output.png)
 
 # 📄 Source Code
 
