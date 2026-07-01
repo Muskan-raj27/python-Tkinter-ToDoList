@@ -44,27 +44,6 @@ The To-Do List Application is a desktop GUI application developed using Python a
 - VS Code / PyCharm
 
 ---
-
-# 📂 Project Structure
-
-```
-Python-Tkinter-ToDoList/
-│── main.py
-│── tasks.txt
-│── README.md
-│── requirements.txt
-│── screenshots/
-│     ├── home.png
-│     ├── add_task.png
-│     ├── delete_task.png
-│     └── final_output.png
-│
-└── documentation/
-      └── Project_Report.pdf
-```
-
----
-
 # ▶️ How to Run
 
 1. Install Python 3.x.
@@ -78,38 +57,11 @@ python main.py
 
 5. The application window will open.
 
----
-
-# 📸 Screenshots
-## Source Code
-![Source Code](screenshots/code.png)
-
-## Home Screen
-![Home Screen](screenshots/home.png)
-
-## Add Task
-![Add Task](screenshots/add_task.png)
-
-## Multiple Tasks
-![Multiple Tasks](screenshots/multiple_tasks.png)
-
-## Delete Task
-![Delete Task](screenshots/delete_task.png)
-
-## Final Output
-![Final Output](screenshots/final_output.png)
 
 # 📄 Source Code
 
 The complete source code is available in **main.py**.
 
----
-
-# 📚 Documentation
-
-The detailed project report is available in the **documentation** folder.
-
----
 
 # 📈 Future Enhancements
 
